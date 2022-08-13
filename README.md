@@ -8,9 +8,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  <!-- - [My process](#my-process) -->
+  - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -25,10 +24,10 @@ Users should be able to:
 
 ![](./public/Screenshot_Desktop.png)
 
-<!-- ### Links
+### Links
 
-- Solution URL: https://github.com/canalebruno/002-product-preview-card-component
-- Live Site URL: https://002-product-preview-card-component.vercel.app/ -->
+- Solution URL: https://github.com/canalebruno/003-nft-preview-card-component-main
+- Live Site URL: https://003-nft-preview-card-component-main.vercel.app/
 
 ## My process
 
