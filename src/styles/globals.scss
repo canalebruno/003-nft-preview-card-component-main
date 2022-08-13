@@ -1,0 +1,28 @@
+:root {
+  --softBlue: hsl(215, 51%, 70%);
+  --cyan: hsl(178, 100%, 50%);
+  
+  --backgroundColour: hsl(217, 54%, 11%);
+  --cardColour: hsl(216, 50%, 16%);
+  --lineColour: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%);
+} 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Outfit";
+}
+
+a {
+  color: var(--white);
+  text-decoration: none;
+  
+  &:hover {
+    color: var(--cyan);
+  }
+}
